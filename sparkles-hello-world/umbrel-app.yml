@@ -2,7 +2,7 @@ manifestVersion: 1
 id: ubuntu-umbrel
 name: Xubuntu
 tagline: Ubuntu with the xfce desktop on your own umbrel. 
-icon: https://cdn.iconscout.com/icon/free/png-256/free-ubuntu-17-1175077.png?f=webp&w=512
+icon: https://svgur.com/i/mvA.svg
 category: Development
 version: "2.0.0"
 port: 3000
